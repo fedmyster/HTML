@@ -1,0 +1,84 @@
+<html>
+<head>
+<title> Fed Film 20C </title>
+<style type="text/css">
+	body{
+		background-image:url('doggy.jpeg');
+		color:#FFFFFF;}
+		h1 {font-size:36pt;}
+		h2 {font-size:25pt;
+			left:200px;
+			font-family: Helvetica, Arial;
+			text-align: center;
+			text-shadow: 0pt 1pt 0pt rgba(255, 255, 255, 0.3)
+			 }
+		p {font-family: arial;
+			font-weight: bold;
+			border-style: solid;
+			border-width: 5px;
+			border-radius: 10px;
+			border-color: black;
+			text-shadow: -1px 0 black, 0 1px black, 1 px 0 black, 0. -1px black;
+			left: 200px;
+			text-align: center;
+			padding-top: 10px}
+		a {
+			font-family: Helvetica, Arial;
+		 text-align: center;
+		 text-shadow: -1px 0 black, 0 1px black, 1 px 0 black, 0. -1;
+		 padding-left: 50px;
+	box-shadow: 0pt 1pt 2pt rgba(0, 0, 0, 0.5);
+	box-shadow: 0pt 1pt 2pt rgba(0, 0, 0, 0.5);
+	border-radius: 4pt;
+	background-color: #f5f5f5;
+	border: 1pt solid #f5f5f5;
+	padding: 30pt;
+	padding-top: 10pt;
+	padding-bottom: 0pt;
+	width: 610px;
+	margin: 0 auto;
+	min-height: 100px;
+
+}
+.write
+font-family: Helvetica;
+
+</style>
+</head>
+<body>
+<p> Federico Gaytan's Film 20C Assignments </p>
+<h2>
+Film 20C 
+</h2>
+<a href="Assignment1.html">Assignment 1</a>
+<a href="Assignment2.html">Assignment 2</a>
+<a href="Assignment3.html">Assignment 3</a>
+<a href="Assignment4.html">Assignment 4</a>
+<a href="Assignment5.html">Assignment 5</a>
+<a href="Assignment6.html">Assignment 6</a>
+
+<script type="text/javascript">
+
+today = new Date();
+
+BigDay = new Date("March 21, 2014");
+
+msPerDay = 24 * 60 * 60 * 1000 ;
+
+timeLeft = (BigDay.getTime() - today.getTime());
+
+e_daysLeft = timeLeft / msPerDay;
+
+daysLeft = Math.floor(e_daysLeft);
+
+e_hrsLeft = (e_daysLeft - daysLeft)*24;
+
+hrsLeft = Math.floor(e_hrsLeft);
+
+minsLeft = Math.floor((e_hrsLeft - hrsLeft)*60);
+
+document.write("There are only<BR> <H4>" + daysLeft + " days " + hrsLeft +" hours and " + minsLeft + " minutes left </H4> Until March 21st 2014<P>");
+
+</script>
+</body>
+</html>

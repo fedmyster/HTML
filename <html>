@@ -1,0 +1,138 @@
+<html>
+<head>
+	<title> Federico's Homework Crap </title>
+	<script src="http://code.jquery.com/jquery-latest.js"></script>
+<script type="text/javascript">
+            jQuery(document).ready(function($) {
+             
+              $(".scroll").click(function(event){   
+                event.preventDefault();
+                $('html,body').animate({scrollTop:$(this.hash).offset().top}, 500);
+              });
+            });
+        </script>
+<style type="text/css">
+body {
+	background-color: #FF0000;
+	color: #000000;
+	font-family: Helvetica, Arial;
+	margin: 0px;
+}
+.adsfasf {
+	text-align: center;
+}
+
+.menu {
+	background: #3cb0e3;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	padding: 6pt;
+	text-align: center;
+	margin-bottom: 18pt;
+}
+
+.content {
+	-webkit-box-shadow: 0pt 1pt 2pt rgba(0, 0, 0, 0.5);
+	-moz-box-shadow: 0pt 1pt 2pt rgba(0, 0, 0, 0.5);
+	-ms-box-shadow: 0pt 1pt 2pt rgba(0, 0, 0, 0.5);
+	-o-box-shadow: 0pt 1pt 2pt rgba(0, 0, 0, 0.5);
+	box-shadow: 0pt 1pt 2pt rgba(0, 0, 0, 0.5);
+	-webkit-border-radius: 5pt;
+	-moz-border-radius: 5pt;
+	-ms-border-radius: 5pt;
+	-o-border-radius: 5pt;
+	border-radius: 5pt;
+	background-color: #f5f5f5;
+	border: 1pt solid #f5f5f5;
+	padding: 10pt;
+	padding-bottom: 0pt;
+	width: 610px;
+	margin: 0 auto;
+	min-height: 700px;
+}
+
+h1 {
+	font-weight: bold;
+	font-size: 35px;
+	text-align: center;
+	padding-top: 14px;
+}
+
+.headfoot{
+	display: block;
+	color: #232323;
+	text-shadow: 0pt 1pt 0pt rgba(255, 255, 255, 0.3);
+	background: none repeat scroll 0% 0% rgba(0, 0, 0, 0.1);
+	border: 1pt solid rgba(0, 0, 0, 0.12);
+	padding: 4pt 8pt;
+	margin: 0 auto;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	-webkit-box-shadow: 0pt 1pt 0pt rgba(255, 255, 255, 0.4);
+	-moz-box-shadow: 0pt 1pt 0pt rgba(255, 255, 255, 0.4);
+	-ms-box-shadow: 0pt 1pt 0pt rgba(255, 255, 255, 0.4);
+	-o-box-shadow: 0pt 1pt 0pt rgba(255, 255, 255, 0.4);
+	box-shadow: 0pt 1pt 0pt rgba(255, 255, 255, 0.4);
+	-webkit-border-radius: 3pt;
+	-moz-border-radius: 3pt;
+	-ms-border-radius: 3pt;
+	-o-border-radius: 3pt;
+	border-radius: 3pt;
+	width: 610px;
+	text-align: center;
+}
+
+.headfoot a {
+	text-decoration: none;
+	font-weight: bolder;
+	color: #000000;
+	font-size: 25px;
+}
+
+.headfoot a:hover {
+	color: #9E00C9;
+}
+</style>
+</head>
+<body>
+<h1 id="header">Federico's Homework crap</h1>'
+<img src="file:///C|/Users/Sean/Pictures/Ficheiro Death skull.svg - Wikipedia, a enciclopedia libre_files/120px-Death_skull.svg.png" width="120" height="116" alt="asdf" />
+<hr />
+<div class="headfoot"><a href="#Assignment 1" class="scroll">Assignment 1</a> | <a href="#results" class="scroll">Results</a> | <a href="#conclusion" class="scroll">Conclusion</a></div>
+<div class="content">
+
+<p id="Assignment 1"><h1>Assignment 1</h1> Insert text from assignment one </p>
+
+<p id="results"><h1>Results</h1> 
+The toxicology report demonstrated that the deceased man drank alcohol, took prescription medication, and two drugs of abuse. Ethanol was found in the veins and in the eyeball. The report also proved his was legally drunk. The legal limit is .08.Benzoylecgonine was found in his blood and urine. This is a metabolite of cocaine. In his blood, drugs drawn from poppy plants were found.In addition, codeine and monoacetyl were found.</p>
+
+<p id="conclusion"><h1>Conclusion</h1> The man was at 0.168 causing impaired motor function and decreased blow flow to the brain. The use of heroin was confirmed. The man mixed prescription medicine for nausea, vomiting, anxiety, muscle spasms with heroin, morphine, and codeine.  The result of mixing these drugs led to the man's accidental promethazine death. </p>
+
+<h1> Rigor Mortis </h1>
+<p> Rigor mortis is one of the signs of death in which the limbs become stiff. It happens about 4  
+hours after the death and is at its maximum point at twelve hours and goes away after 48 hours.  
+The body stiffens at different rates based on the temperature of the environment. The warmer it is  
+then stiffness accurse faster. The body stiffens based on the position it is in so forensic scientist  
+can tell if the body has been moved. Rigor mortis is in Forensics used to determine the time of  
+death, location, and if the body was moved or not.
+</p>
+
+
+<h1>Glossary</h1> 
+<p><a href="http://lmgtfy.com/?q=rigor+mortis+">Rigor Mortis </a> 
+:Stiffening of the joints and muscles of a body after death.
+</p>
+<a href="http://lmgtfy.com/?q=define+toxicology+">Toxicology </a>  :The branch of science concerned with the nature, effects, and detection of poisons.
+<p> 
+<a href="http://lmgtfy.com/?q=define+accidental+death">Accidental death </a><a href="Accidental death"></a> :An unforeseen and unplanned event or circumstance that leads to death. 
+
+</p> 
+
+</div>
+
+
+<div class="headfoot">Sean Sousa and Jenny Ortega created this webpage so that students around the world would be able to learn about Rigor mortis. 
+<br />
+</body>
+</html>
